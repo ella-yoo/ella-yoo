@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Ella Kim is a UX/UI designer specializing in user-centered product design, usability research, and interface innovation. View her case studies and portfolio projects." />
+  <meta name="keywords" content="UX designer, UI designer, portfolio, case study, Ella Kim, product design, interaction design" />
+  <meta name="author" content="Ella Kim" />
+
+  <title>Ella Kim | UX/UI Designer Portfolio</title>
+
+  <!-- Open Graph for SEO and social sharing -->
+  <meta property="og:title" content="Ella Kim | UX/UI Designer Portfolio" />
+  <meta property="og:description" content="Explore UX case studies and product design projects by Ella Kim, focused on usability and user-centered innovation." />
+  <meta property="og:image" content="https://yourdomain.com/thumbnail.jpg" />
+  <meta property="og:url" content="https://yourgithubusername.github.io/project-name" />
+  <meta property="og:type" content="website" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+
+  <!-- Favicon -->
+  <link rel="icon" href="favicon.ico" />
+
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Helvetica Neue', sans-serif;
+      line-height: 1.6;
+      color: #333;
+      background: #fff;
+    }
+    header {
+      padding: 2rem;
+      text-align: center;
+      background: #f9f9f9;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+    }
+    header p {
+      font-size: 1.2rem;
+      color: #666;
+    }
+    main {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    section {
+      margin-bottom: 3rem;
+    }
+    .project {
+      margin-bottom: 2rem;
+    }
+    .project-title {
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+    .project-description {
+      margin: 0.5rem 0 1rem;
+    }
+    a {
+      color: #007acc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Ella Kim</h1>
+    <p>UX/UI Designer | Product Design | Interaction Research</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Selected Case Studies</h2>
+
+      <div class="project">
+        <div class="project-title">Redesigning Onboarding for a Mental Health App</div>
+        <p class="project-description">Improved user retention by 30% through usability testing and onboarding flow redesign for a wellness mobile app.</p>
+        <a href="https://yourgithubusername.github.io/project1">View Project Detail →</a>
+      </div>
+
+      <div class="project">
+        <div class="project-title">Optimizing Checkout UX for an E-commerce Platform</div>
+        <p class="project-description">Simplified purchase flow, leading to a 20% increase in conversion by applying heuristic evaluation and user interviews.</p>
+        <a href="https://yourgithubusername.github.io/project2">View Project Detail →</a>
+      </div>
+
+    </section>
+  </main>
+</body>
+</html>
